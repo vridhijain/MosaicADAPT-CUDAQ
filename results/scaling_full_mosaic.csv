@@ -1,0 +1,5 @@
+n_qubits,statevector_dimension,edge_count,pool_size,accepted_layers,adaptation_attempts,stop_reason,initial_energy,final_energy,total_bfgs_iterations,total_function_evaluations,total_gradient_evaluations,max_final_gradient_inf_norm,total_seconds
+6,64,6,67,2,3,ScoreStopper,-3.0,-4.999999999999925,30,44,44,3.580747320797275e-07,7.771453499910422
+8,256,11,121,5,6,ScoreStopper,-5.5,-8.999999999997854,210,258,258,8.107208617694084e-07,57.90987650002353
+10,1024,19,191,6,7,ScoreStopper,-9.5,-13.999999999999435,241,287,287,8.307813419428101e-07,199.04139975004364
+12,4096,26,277,7,8,ScoreStopper,-13.0,-18.999999999999886,293,369,369,9.058263797552535e-07,1408.8717953750165

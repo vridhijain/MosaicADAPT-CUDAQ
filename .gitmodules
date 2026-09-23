@@ -1,0 +1,3 @@
+[submodule "external/KaMIS"]
+	path = external/KaMIS
+	url = https://github.com/KarlsruheMIS/KaMIS.git

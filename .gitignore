@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+.venv312/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary output
+*.tmp
+*.log
+*.metis
+*_solution.txt
+
+# KaMIS build products
+external/KaMIS/mmwis/build/
+external/KaMIS/mmwis/deploy/
+external/KaMIS/build/
+external/KaMIS/deploy/
+
+# Test cache
+.pytest_cache/

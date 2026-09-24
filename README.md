@@ -39,7 +39,7 @@ KaMIS is included as a Git submodule and must be built separately before running
 Clone the repository with submodules:
 
 ```bash
-git clone --recursive <repository-url>
+git clone --recursive [<repository-url>](https://github.com/vridhijain/MosaicADAPT-CUDAQ.git)
 cd MosaicADAPT-CUDAQ
 ```
 
